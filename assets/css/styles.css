@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa; /* Light Grayish Blue Background */
+    padding-top: 56px; /* Adjusted padding for the fixed navbar */
+  }
+
+  .navbar {
+    background-color: #ffffff; /* White Navbar Background */
+  }
+
+  .card {
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box Shadow for Cards */
+    transition: box-shadow 0.3s;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Box Shadow on Hover */
+  }
+
+  .card-header {
+    background-color: #007bff; /* Bootstrap Primary Blue Header */
+    color: #ffffff; /* White Text Color for Header */
+  }
+
+  .card-title {
+    color: #007bff; /* Bootstrap Primary Blue Text Color for Title */
+  }
+
+  .card-text {
+    color: #495057; /* Dark Grayish Blue Text Color */
+  }
+
+  .profile-image {
+    border-radius: 50%; /* Make the image rounded */
+    width: 100%; /* Make the image fill its container */
+    max-width: 250px; /* Limit the maximum width */
+    height: auto; /* Maintain the aspect ratio */
+  }
