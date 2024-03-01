@@ -46,9 +46,11 @@
 
 Profiles of existing trainee web developers
 
-<img src = "assets/images/Readme/StaffList-Sketch1.png">
-<img src = "assets/images/Readme/StaffList-Sketch2.png">
+<img src = "../assets/images/Readme/StaffList-Sketch1.png">
 
-<img src = "assets/images/Readme/JobList-1.png">
-<img src = "assets/images/Readme/JobList-2.png">
+<img src = "../assets/images/Readme/StaffList-Sketch2.png">
+
+<img src = "../assets/images/Readme/JobList-1.png">
+
+<img src = "../assets/images/Readme/JobList-2.png">
 
