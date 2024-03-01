@@ -4,15 +4,15 @@
 
 ## File Structure
 
-├───Application form
 ├───assets
 │   ├───css
-│   └───images     
-│       ├───Readme 
+│   └───images
+│       ├───Readme
 │       └───Website
 ├───doc
 ├───git
 └───src
+    └───Application form
 
 ## Tasks to do
 
